@@ -1,0 +1,56 @@
+mode: auto
+
+avatar:
+  url: https://s1.ax1x.com/2022/09/10/vOnYF0.jpg
+  status:
+    enable: true
+    emoji: 🙂️
+    message: 招新中～
+
+github_issues:
+  enable: false
+
+footer:
+  support:
+    enable: true
+    title: 米拉克
+    link: https://merakt.cn
+    logo: https://s1.ax1x.com/2022/05/22/OvWfiD.png
+    prefix: 本网站由
+    suffix: 提供技术支持
+
+github_discussions:
+  enable: false
+
+cursor:
+  enable: true
+
+valine:
+  enable: true
+  appId: bWFeDexzpJpNUDNoAmyzb19c-gzGzoHsz
+  appKey: l5XRDZ9vsiGHAwON5VTifyLS
+  placeholder: Just go go # comment box placeholder
+  avatar: # gravatar style
+  meta:
+    - nick
+    - mail
+    - link
+  pageSize: 10 # pagination size
+  # lang: zh-CN
+  # visitor: false
+  # highlight: true
+  # recordIP: false
+  # serverURLs:
+  # Emoji See: https://valine.js.org/emoji.html
+  # emojiCDN: //i0.hdslb.com/bfs/emote/
+  # emojiMaps:
+  #   tv_doge: 6ea59c827c414b4a2955fe79e0f6fd3dcd515e24.png
+  #   more...
+  # enableQQ: false
+  # requiredFields:
+  #   - nick
+  #   - mail
+
+wordcloud:
+  enable: true
+
