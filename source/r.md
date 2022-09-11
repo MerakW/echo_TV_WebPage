@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 重定向
-permalink: /material_policy.html
+permalink: /r.html
 reward: false
 ---
 
